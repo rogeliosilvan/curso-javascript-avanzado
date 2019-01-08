@@ -1,0 +1,28 @@
+{
+  "name": "curso-javascript-avanzado",
+  "version": "1.0.0",
+  "description": "# Temario",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "devDependencies": {
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "webpack": "^4.22.0",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamarrowski/curso-javascript-avanzado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zamarrowski/curso-javascript-avanzado/issues"
+  },
+  "homepage": "https://github.com/zamarrowski/curso-javascript-avanzado#readme"
+}
